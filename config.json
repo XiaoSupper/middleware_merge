@@ -1,0 +1,12 @@
+{
+    "goResultFilePath": "/ResultFile/",
+    "resultFilenames": "/resultFilenames.txt",
+    "goResultMergeFilePath": "/merge/",
+    "luaParseResultFilePath": "/lua_parse_result/",
+    "scriptFilePath":"/scriptFile/",
+    "goroutineNum":1,
+    "bccServerPort":[
+        "/runlua"
+    ]
+    
+}
